@@ -1,0 +1,18 @@
+.container {
+  border: 3px solid #2f2f2f;
+  border-radius: 3px;
+  background-color: #818181;
+}
+
+.ver_name {
+  margin-left : 8rem;
+  color: #fc6500;
+}
+
+.fixex {
+  color: #1aff00;
+}
+
+.fixes {
+  color : #ff0000;
+}
